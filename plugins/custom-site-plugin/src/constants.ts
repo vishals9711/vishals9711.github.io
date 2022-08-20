@@ -13,7 +13,7 @@ export const PROJECT_DATA = [
       projectDesc:
         'A web portal that can create Vaccination slot Alerts in India and notify via email or Text SMS when slots open up.',
       githubLink: 'https://github.com/vishals9711/cowin_notifier',
-      languages: ['ReactJS', 'Typescript', 'Firebase SDK', 'Twilio', 'AWS'],
+      languages: ['ReactJS', 'Firebase SDK', 'Twilio', 'AWS'],
       hostedLink: 'https://vaccineslotalert.in/',
     },
     {

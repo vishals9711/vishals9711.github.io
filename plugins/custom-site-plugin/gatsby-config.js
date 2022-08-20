@@ -1,13 +1,13 @@
 module.exports = ({ basePath = `/`, mdx = true }) => ({
   siteMetadata: {
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - @lekoarts/gatsby-theme-cara`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+    siteTitle: `Vishal Ramanand Sharma Portfolio`,
+    siteTitleAlt: `Portfolio by Vishal Ramanand Sharma`,
+    siteHeadline: `Portfolio by Vishal Ramanand Sharma`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Portfolio by Vishal Ramanand Sharma`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@vishals9711`,
     basePath,
   },
   plugins: [
