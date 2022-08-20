@@ -18,7 +18,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@lekoarts/gatsby-theme-cara`,
+      resolve: require.resolve('./plugins/custom-site-plugin'),
       // See the theme's README for all available options
       options: {},
     },
