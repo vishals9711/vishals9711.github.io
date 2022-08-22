@@ -48,6 +48,7 @@ const Contact = ({ offset, factor = 1 }: { offset: number; factor?: number }) =>
           sx={{
             height: 8,
             width: 8,
+            cursor:'pointer',
             ':after': {
               transition: 'all ease-in-out .3s',
               background: 'none repeat scroll 0 0 currentcolor',
@@ -84,6 +85,7 @@ const Contact = ({ offset, factor = 1 }: { offset: number; factor?: number }) =>
             height: 8,
             width: 8,
             mx: 4,
+            cursor:'pointer',
             ':after': {
               transition: 'all ease-in-out .3s',
               background: 'none repeat scroll 0 0 currentcolor',
@@ -120,6 +122,7 @@ const Contact = ({ offset, factor = 1 }: { offset: number; factor?: number }) =>
           sx={{
             height: 8,
             width: 8,
+            cursor:'pointer',
             ':after': {
               transition: 'all ease-in-out .3s',
               background: 'none repeat scroll 0 0 currentcolor',

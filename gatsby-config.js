@@ -3,7 +3,7 @@ require(`dotenv`).config()
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
-  pathPrefix:"/vishals9711.github.io",
+  pathPrefix:"/vishalrsharma.dev/",
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
@@ -11,7 +11,7 @@ module.exports = {
       siteTitle: `Vishal Ramanand Sharma Portfolio`,
       siteTitleAlt: `Portfolio by Vishal Ramanand Sharma`,
       siteHeadline: `Portfolio by Vishal Ramanand Sharma`,
-      siteUrl: `https://vishals9711.github.io`,
+      siteUrl: `https://vishalrsharma.dev/`,
       siteDescription: `Portfolio by Vishal Ramanand Sharma`,
       siteLanguage: `en`,
       siteImage: `/banner.jpg`,
