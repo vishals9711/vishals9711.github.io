@@ -32,7 +32,7 @@ const Skills = ({ offset, factor = 2 }: { offset: number; factor?: number }) => 
         >
           <SkillsMDX />
           {SKILLS_ARRAY.map((data, index) => (
-            <SkillCard language={data} key={index} bg={PROJECT_CARD_BG[index % 2]} />
+            <SkillCard language={data} key={index} bg={PROJECT_CARD_BG[index % 3]} />
           ))}
         </div>
       </Inner>

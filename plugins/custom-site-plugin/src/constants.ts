@@ -42,10 +42,14 @@ export const PROJECT_DATA = [
   export const SKILLS_ARRAY: Array<string> = [
     'ReactJS',
     'Angular',
+    'MonogoDB',
+    'Kafka',
     'Python',
     'TypeScript',
     'FireBase',
     'IBM Bluemix',
     'Docker',
     'MySQL',
+    'Redis',
+    'AWS'
   ];
