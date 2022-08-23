@@ -68,3 +68,5 @@ public
 .vscode
 .DS_Store
 .firebase
+*.lock
+./firebase/*

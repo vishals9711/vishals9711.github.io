@@ -37,4 +37,15 @@ export const PROJECT_DATA = [
     "linear-gradient(to right, #662D8C 0%, #ED1E79 100%)",
     "linear-gradient(to right, #009245 0%, #FCEE21 100%)",
     "linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-  ]
+  ];
+
+  export const SKILLS_ARRAY: Array<string> = [
+    'ReactJS',
+    'Angular',
+    'Python',
+    'TypeScript',
+    'FireBase',
+    'IBM Bluemix',
+    'Docker',
+    'MySQL',
+  ];
