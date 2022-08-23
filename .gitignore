@@ -69,4 +69,4 @@ public
 .DS_Store
 .firebase
 *.lock
-./firebase/*
+**/.firebase
