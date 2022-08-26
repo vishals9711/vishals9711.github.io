@@ -10,13 +10,13 @@ import TimelineLayout from "../components/timelinelayout"
 
 const Cara = () => (
   <Layout>
-    <Parallax pages={8}>
+    <Parallax pages={8.4}>
       <Hero offset={0} factor={1} />
       <About offset={1} factor={1} />
       <TimelineLayout offset={2} factor={2}/>
-      <Projects offset={4} factor={2} />
-      <Skills offset={6} factor={1} />
-      <Contact offset={7} factor={1} />
+      <Projects offset={4.5} factor={2} />
+      <Skills offset={6.5} factor={1} />
+      <Contact offset={7.5} factor={1} />
     </Parallax>
   </Layout>
 )
