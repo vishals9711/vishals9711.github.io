@@ -70,3 +70,6 @@ public
 .firebase
 *.lock
 **/.firebase
+
+## Lock files
+package-lock.json
