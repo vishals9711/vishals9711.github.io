@@ -8,7 +8,9 @@ phases:
       - echo "node -v" 
   pre_build:
     commands:
-      - npm install
+      - npm install -g yarn
+      - yarn install
+      - yarn add -g gatsby-cli
   build:
     commands:
       - npm run build
